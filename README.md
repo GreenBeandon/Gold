@@ -10,7 +10,7 @@ An ESO addon that tracks changes in character gold amounts
 
 How to?
 
-Place the Gold! folder into your /Elder Scrolls Online/live/AddOns folder
+Extract the Gold folder into your /Elder Scrolls Online/live/AddOns folder
 Launch the game
 
 Find an Issue? 
