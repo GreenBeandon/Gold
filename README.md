@@ -1,7 +1,7 @@
 # Gold!
 An ESO addon that tracks changes in character gold amounts
 
-Features:
+Features
   Gold Earned and Lost
   Original Gold
   New Total
