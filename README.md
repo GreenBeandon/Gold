@@ -2,11 +2,11 @@
 An ESO addon that tracks changes in character gold amounts
 
 Features:
---Gold Earned and Lost
---Original Gold
-*New Total
-*Total +-Change
-*Tracks different types of transactions
+  Gold Earned and Lost
+  Original Gold
+  New Total
+  Total +-Change
+  Tracks different types of transactions
 
 How to?
 
